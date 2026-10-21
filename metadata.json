@@ -1,0 +1,10 @@
+{
+  "name": "YusufGo - AI English & IELTS Prep",
+  "description": "GoPrep inspired all-in-one free English & IELTS preparation platform with AI Speaking examiner, Writing band evaluator, Computer-Delivered Mock Tests, and interactive vocabulary.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
